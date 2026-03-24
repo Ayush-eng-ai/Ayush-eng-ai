@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Rajput</h1>
+<h1 align="center">Hi 👋, I'm Ayush</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;AI+%26+Data+Science+Enthusiast;DSA+Learner+%7C+Problem+Solver;Building+Cool+Projects+🚀" />
