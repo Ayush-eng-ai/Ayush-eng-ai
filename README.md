@@ -67,9 +67,35 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-eng-ai&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-eng-ai&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-stats.as93.net/api?username=Ayush-eng-ai&theme=default&hide_border=true" />
+  &nbsp;
+  <img src="https://github-stats.as93.net/api/top-langs?username=Ayush-eng-ai&layout=compact&theme=default&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayush-eng-ai&theme=default&hide_border=true" />
+</p>
+
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-eng-ai&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-eng-ai&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayush-eng-ai&theme=default&hide_border=true" />
+</p> -->
+
+
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-eng-ai&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-eng-ai&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ayush-eng-ai&theme=default&hide_border=true" />
+</p> -->
 
 ---
 
