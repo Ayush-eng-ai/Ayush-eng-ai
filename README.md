@@ -66,9 +66,13 @@
 
 ## 📊 GitHub Stats
 
+
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayush-eng-ai&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ayush-eng-ai&theme=radical&hide_border=true&background=0D1117&ring=1D9E75&fire=BA7517&currStreakLabel=378ADD&border_radius=10" />
 </p>
+
+
 
 
 
