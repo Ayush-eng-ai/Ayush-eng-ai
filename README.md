@@ -21,10 +21,25 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ayush-rajput-0b1038350"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:ayushrajput8404@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.kaggle.com/akashrajput4526"><img src="https://skillicons.dev/icons?i=devto" title="Kaggle" /></a>
-<a href="https://medium.com/@ayushrajput8404"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ayush-rajput-0b1038350" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:ayushrajput8404@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.kaggle.com/akashrajput4526" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@ayushrajput8404" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://data-analysis-portfolio-six.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-00C4FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 </p>
 
 ---
