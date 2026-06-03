@@ -9,12 +9,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **BS in Data Science & Applications** from **IIT Madras**
-- 📊 Passionate about turning raw data into meaningful insights
-- 🤖 Exploring **Machine Learning, EDA, and Business Intelligence**
-- 🛠️ Building real-world projects with Python, SQL, and Power BI
-- 📈 Aspiring **Data Scientist / Data Analyst** open to internships & opportunities
-- 📬 Reach me at: **ayushrajput8404@gmail.com**
+- 🎓 Pursuing **BS in Data Science & Applications** — **IIT Madras**
+- 💼 **IT & Data Support Executive** @ S. Kumar Educational Institute
+- 📊 **12+ Real Projects** — Power BI, SQL, Python, Excel, EDA
+- 🤖 Exploring **Machine Learning & Business Intelligence**
+- 🚀 Goal: **Data Analyst → Data Scientist → AI/ML Engineer**
+- ✅ Open to **Freelance Projects & Data Analyst Roles**
+- 📬 **ayushrajput8404@gmail.com**
 
 ---
 
@@ -47,6 +48,7 @@
 ## 🛠️ Tech Stack
 
 **Languages & Libraries**
+
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,mysql" />
@@ -81,7 +83,13 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-eng-ai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-eng-ai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ayush-eng-ai&theme=radical&hide_border=true&background=0D1117&ring=1D9E75&fire=BA7517&currStreakLabel=378ADD&border_radius=10" />
@@ -96,12 +104,14 @@
 
 ## 📜 Certifications
 
-- ✅ AI for Beginners — HP LIFE
-- ✅ Resume Writing & Job Interviewing — HP LIFE
+- ✅ Python for Data Science — IBM
+- ✅ Data Science & Analytics — HP LIFE  
+- ✅ Generative AI — LinkedIn Learning
+- ✅ Advanced Excel — STP Computer Education
+- ✅ Web Development — STP Computer Education
 - 🎓 BS Data Science & Applications (In Progress) — IIT Madras
 
 ---
 
-<p align="center">
-  <i>"Data is the new oil — I'm learning to refine it."</i>
-</p>
+<i>"Every dataset has a story — 
+I build the tools to tell it clearly. 🚀"</i>
