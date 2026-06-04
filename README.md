@@ -95,6 +95,14 @@
   <img src="https://streak-stats.demolab.com?user=Ayush-eng-ai&theme=radical&hide_border=true&background=0D1117&ring=1D9E75&fire=BA7517&currStreakLabel=378ADD&border_radius=10" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush-eng-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-eng-ai&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 📜 Certifications
